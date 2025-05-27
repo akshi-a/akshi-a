@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🔭 I’m currently working on 
+## 🔭 I’m currently working on 
 - Bloch Sphere Sonification w/ Erie
 - Art Gallery w/ The Met API
 
