@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## 🔭 I’m currently working on 
-- Bloch Sphere Sonification w/ Erie
+- Erie
+- F1 Prediction ML model 
 - Art Gallery w/ The Met API
 
 <!--
